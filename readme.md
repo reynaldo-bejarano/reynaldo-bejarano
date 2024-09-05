@@ -17,9 +17,9 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 
 ## Tech Stack
 
-- **Programming Languages**: [HTML5, CSS3, Javascript, Java, C#]
-- **Tools and Technologies**: [React, Angular, NextJS, Express, .NET, Git]
-- **Methodologies**: [Desarrollo Ágil, Patrones de diseño]
+- **Programming Languages**: [HTML5], [CSS3], [Javascript], [Java], [C#]
+- **Tools and Technologies**: [React], [Angular], [NextJS], [Express], [.NET], [Git]
+- **Methodologies**: [Desarrollo Ágil], [Patrones de diseño]
 
 
 ¡Gracias por visitar mi perfil! 😊
