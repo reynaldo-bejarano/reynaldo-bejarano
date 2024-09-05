@@ -19,12 +19,5 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 
 - [HTML5] [CSS3] [JavaScript] [React] [NextJS] [NodeJS] [C#] [.NET] [SQL] [Git] [GITHUB] [Agile]
 
-## My last repositories
-
-[![Check my repositories](https://github-readme-stats.vercel.app/api/pin/?username=reynaldo-bejarano&repo=nombre-del-repositorio)](https://github.com/reynaldo-bejarano?tab=repositories)
-
-## Statistics
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=reynaldo-bejarano-github&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_rank=true&theme=dark)
 
 ¡Gracias por visitar mi perfil! 😊
