@@ -4,9 +4,10 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 
 ## Contact
 
+- [Email](mailto:reynaldo.bjsz@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/reynaldo-bejarano/LinkedIn)
 - [Twitter](https://x.com/Rbjsz)
-- [Email](mailto:reynaldo.bjsz@gmail.com)
+
 
 ## About me
 
