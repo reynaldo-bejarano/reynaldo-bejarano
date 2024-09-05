@@ -22,4 +22,4 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 - **Methodologies**: [Desarrollo Ágil], [Patrones de diseño]
 
 
-¡Gracias por visitar mi perfil! 😊
+Thank you for visiting my profile! 😊
