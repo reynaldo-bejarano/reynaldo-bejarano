@@ -14,7 +14,6 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 - 🌱 I am currently specializing in [fullstack development].
 - 👯 I am looking to collaborate on projects related to [open source].
 - 💬 Ask me about [frontend development, backend development, web development].
-- 📫 How to contact me: [[Email](mailto:reynaldo.bjsz@gmail.com), [LinkedIn](https://www.linkedin.com/in/reynaldo-bejarano/LinkedIn)].
 
 ## Tech Stack
 
