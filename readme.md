@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 
 - [LinkedIn](https://www.linkedin.com/in/reynaldo-bejarano/LinkedIn)
 - [Twitter](https://x.com/Rbjsz)
-- [Correo Electrónico](mailto:reynaldo.bjsz@gmail.com)
+- [Email](mailto:reynaldo.bjsz@gmail.com)
 
 ## About me
 
