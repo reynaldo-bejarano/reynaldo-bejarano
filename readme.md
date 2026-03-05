@@ -1,6 +1,6 @@
 # Hello! I'm Reynaldo Bejarano 👋
 
-Welcome to my GitHub profile. I'm a computer science engineer, with a passion for frontend and backend web development. Here you'll find some of the projects I've worked on and my open source code.
+Junior computer engineer specializing in data engineering with experience in data processing, cleaning, and transformation using SQL and Python (Pandas, NumPy). Focused on building ETL pipelines, data quality validation, and analytical modeling for business intelligence. 
 
 ## Contact
 
@@ -11,13 +11,13 @@ Welcome to my GitHub profile. I'm a computer science engineer, with a passion fo
 
 ## About me
 
-- 🌱 I am currently specializing in [fullstack development].
+- 🌱 I am currently specializing in [Data engineering].
 - 👯 I am looking to collaborate on projects related to [open source].
-- 💬 Ask me about [frontend development, backend development, web development].
+- 💬 Ask me about [Data engineering, frontend development, backend development, web development].
 
 ## Tech Stack
 
-- **Programming Languages**: [HTML5], [CSS3], [Javascript], [Java], [C#]
+- **Programming Languages**: [HTML5], [CSS3], [Python], [Javascript], [Java], [C#]
 - **Tools and Technologies**: [React], [Angular], [NextJS], [Express], [.NET], [Git]
 - **Methodologies**: [Desarrollo Ágil], [Patrones de diseño]
 
